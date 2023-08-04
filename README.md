@@ -1,9 +1,9 @@
 # hierarchicalRunsPython
-This is a combination code to generate hierarchical cases to run written based on python 3 and foam-extend-4.1.
+This is a combination code to generate hierarchical cases to run written based on Python 3 and foam-extend-4.1.
 
 
 ## Installation
-It is working on foam-extend-4.1
+It is working on all versions.
 ```bash
 git clone https://github.com/EhsanGLB/hierarchicalRunsPython.git
 ```
